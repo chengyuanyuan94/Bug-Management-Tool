@@ -1,7 +1,9 @@
 # Bug-Management-Tool
+
 最常用的bug管理工具---frequently used Bug Management Tool
 
 ##常用的缺陷管理工具：
+
 - Mantis （free）
 - Bugzilla （free）
 - Quality center 
@@ -10,11 +12,14 @@
 
 
 #Mantis
+
 - 缺陷管理平台Mantis ，也做MantisBT，全称Mantis Bug Tracker。
 Mantis是一个基于PHP技术的轻量级的开源缺陷跟踪系统，以Web操作的形式提供项目管理及缺陷跟踪服务。在功能上、实用性上足以满足中小型项目的管理及跟踪。**更重要的是其开源，不需要负担任何费用**。
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2539401-d7cd87aa6294f9de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 - **基本特性**
-- 
+
 1、个人可定制的Email通知功能，每个用户可根据自身的工作特点只订阅相关缺陷状态邮件；
 
 2、支持多项目、多语言；
@@ -32,39 +37,41 @@ Mantis是一个基于PHP技术的轻量级的开源缺陷跟踪系统，以Web�
 8、流程定制方便且符合标准，满足一般的缺陷跟踪。
 
 ##Bugzilla
+
 - Bugzilla是一开源Bug Tracking System，是专门为Unix定制开发的。
 
 - Bugzilla是Mozilla公司提供的一款**开源的免费Bug（错误或是缺陷）追踪系统**，用来帮助你管理软件开发，建立完善的BUG跟踪体系。
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2539401-69eccd130ce92024.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - **基本特性**
--
-⒈ 强大的检索功能
+	- ⒈ 强大的检索功能
 
-⒉ 用户可配置的通过Email公布Bug变更
+	- ⒉ 用户可配置的通过Email公布Bug变更
 
-⒊ 历史变更记录
+	- ⒊ 历史变更记录
 
-⒋ 通过跟踪和描述处理Bug
+	- ⒋ 通过跟踪和描述处理Bug
 
-⒌ 附件管理
+	- ⒌ 附件管理
 
-⒍ 完备的产品分类方案和细致的安全策略
+	- ⒍ 完备的产品分类方案和细致的安全策略
 
-⒎ 安全的审核机制
+	- ⒎ 安全的审核机制
 
-⒏ 强大的后端数据库支持
+	- ⒏ 强大的后端数据库支持
 
-⒐ Web，Xml，Email和控制界面
+	- ⒐ Web，Xml，Email和控制界面
 
-⒑友好的网络用户界面
+	- ⒑友好的网络用户界面
 
-⒒丰富多样的配置设定
+	- ⒒丰富多样的配置设定
 
-⒓版本间向下兼容
+	- ⒓版本间向下兼容
 
 
-#Quality center 
+# Quality center 
+
 - Quality Center是一个基于Web的测试BUG管理工具。
 - Quality Center: HP公司的一个产品，该产品的前身是Mercury Iteractive（美科利）公司的TestDirector （简称为TD），后被HP公司收购，正式起名为HP Quality Center。
 - Quality Center是一个基于Web的测试管理工具，可以组织和管理应用程序测试流程的所有阶段，包括制定测试需求、计划测试、执行测试和跟踪缺陷。此外，通过Quality Center还可以创建报告和图来监控测试流程。
@@ -73,31 +80,31 @@ Mantis是一个基于PHP技术的轻量级的开源缺陷跟踪系统，以Web�
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2539401-7bb2e8e2723d3d7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - **基本特性**
--
-1.制定可靠的部署决策
+	- 1.制定可靠的部署决策
 
-2.管理整个质量流程并使其标准化
+	- 2.管理整个质量流程并使其标准化
 
-3.降低应用程序部署风险
+	- 3.降低应用程序部署风险
 
-4.提高应用程序质量和可用性
+	- 4.提高应用程序质量和可用性
 
-5.通过手动和自动化功能测试管理应用程序变更影响
+	- 5.通过手动和自动化功能测试管理应用程序变更影响
 
-6.确保战略采购方案中的质量
+	- 6.确保战略采购方案中的质量
 
-7.存储重要应用程序质量项目数据
+	- 7.存储重要应用程序质量项目数据
 
-8.针对功能和性能测试面向服务的基础架构服务
+	- 8.针对功能和性能测试面向服务的基础架构服务
 
-9.确保支持所有环境，包括 J2EE、.NET、Oracle 和 SAP
+	- 9.确保支持所有环境，包括 J2EE、.NET、Oracle 和 SAP
 
 # Jira
+
 - JIRA是Atlassian公司出品的项目与事务跟踪工具，被广泛应用于缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理等工作领域。
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2539401-09de3420907d7bce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - **基本特性**
--
+
 - 工作流
 	- 开箱即用，提供用于缺陷管理的默认工作流
 	- 可视化工作流设计器
@@ -163,8 +170,10 @@ Mantis是一个基于PHP技术的轻量级的开源缺陷跟踪系统，以Web�
 	- 使用 GreenHopper 插件，实现敏捷项目管理
 	- JIRA可以将报告的缺陷与源代码建立联系，以便于了解缺陷在哪部分代码中被修复
 	- JIRA 提供全面的 remote APIs - 包括REST,SOAP,XML-RPC等 - 并且Atlassian提供开发教程和示例
+	- 
 
-#禅道
+# 禅道
+
 - 禅道是**第一款国产的优秀开源项目管理软件**。先进的管理思想，合理的软件架构，简洁实效的操作，优雅的代码实现，灵活的扩展机制，强大而易用的api调用机制，多语言支持，多风格支持，搜索功能，统计功能——这一切，您通过禅道，都可以拥有！禅道在手，项目无忧！
 - 禅道项目管理软件集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款功能完备的项目管理软件，完美地覆盖了项目管理的核心流程。
 
@@ -172,7 +181,7 @@ Mantis是一个基于PHP技术的轻量级的开源缺陷跟踪系统，以Web�
 
 
 - **基本特性**
--
+
 - **一体化研发管理**
 禅道项目管理软件主要管理思想基于应用最为广泛的敏捷开发方法Scrum，同时又增加了Bug管理，测试用例管理，发布管理，文档管理等必需功能，覆盖了研发类项目管理的核心流程，为IT企业或正在进行信息化的企业提供了一个一体化的集成管理工具。
 - **概念清晰，功能完备**
